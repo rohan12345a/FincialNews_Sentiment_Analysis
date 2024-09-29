@@ -51,8 +51,17 @@ Following the initial analysis with traditional machine learning models, a BERT 
 - **Model Training**: BERT was fine-tuned using the prepared datasets.
 
 ## 6. Results of BERT Model
-The BERT model showed a significant improvement in accuracy compared to traditional models:
-- The evaluation metrics (accuracy, precision, recall, F1-score) were captured, demonstrating the effectiveness of the BERT model in sentiment classification.
+The BERT model showed a significant improvement in accuracy compared to traditional models. The training and validation results over epochs were as follows:
+
+| Epoch | Training Loss | Validation Loss | Accuracy | Precision | Recall  | F1      |
+|-------|---------------|------------------|----------|-----------|---------|---------|
+| 1     | 0.086000      | 0.683540         | 0.874942 | 0.874714  | 0.874942| 0.874413|
+| 2     | 0.046400      | 0.781602         | 0.871223 | 0.871988  | 0.871223| 0.871286|
+| 3     | 0.091200      | 0.759234         | 0.876337 | 0.876084  | 0.876337| 0.876183|
+| 4     | 0.000300      | 0.855376         | 0.876337 | 0.876104  | 0.876337| 0.876123|
+| 5     | 0.000500      | 0.892414         | 0.870293 | 0.870000  | 0.870293| 0.870115|
+
+The evaluation metrics (accuracy, precision, recall, F1-score) demonstrate the effectiveness of the BERT model in sentiment classification.
 
 ## 7. Conclusion
 This project successfully demonstrated the process of sentiment analysis in financial data through traditional machine learning and advanced deep learning techniques using BERT. The results indicated that BERT outperformed the traditional algorithms, showcasing its potential for complex text analysis tasks in the financial domain.
