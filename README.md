@@ -66,7 +66,14 @@ The evaluation metrics (accuracy, precision, recall, F1-score) demonstrate the e
 ## 7. Conclusion
 This project successfully demonstrated the process of sentiment analysis in financial data through traditional machine learning and advanced deep learning techniques using BERT. The results indicated that BERT outperformed the traditional algorithms, showcasing its potential for complex text analysis tasks in the financial domain.
 
-## 8. References
+## 8. Video Demonstration
+
+
+https://github.com/user-attachments/assets/f24ab8a5-0fc9-47f4-85b4-9a6cf6d56555
+
+
+
+## 9. References
 - Hugging Face Transformers Documentation
 - Scikit-learn Documentation
 - NLTK Documentation
