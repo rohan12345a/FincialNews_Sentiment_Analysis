@@ -11,7 +11,8 @@ This project focuses on analyzing the sentiment of financial data using traditio
 - [5. Fine-tuning BERT](#5-fine-tuning-bert)
 - [6. Results of BERT Model](#6-results-of-bert-model)
 - [7. Conclusion](#7-conclusion)
-- [8. References](#8-references)
+- [8. Video Demonstration](#7-Video Demonstration)
+- [9. References](#8-references)
 
 ## 1. Introduction
 The financial industry increasingly relies on sentiment analysis to inform investment decisions. This project aims to classify sentiments from financial text data using machine learning and natural language processing techniques.
