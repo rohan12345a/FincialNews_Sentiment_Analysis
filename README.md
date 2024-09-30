@@ -11,7 +11,7 @@ This project focuses on analyzing the sentiment of financial data using traditio
 - [5. Fine-tuning BERT](#5-fine-tuning-bert)
 - [6. Results of BERT Model](#6-results-of-bert-model)
 - [7. Conclusion](#7-conclusion)
-- [8. Video Demonstration](#7-Video Demonstration)
+- [8. Video Demonstration](#7-Video-Demonstration)
 - [9. References](#8-references)
 
 ## 1. Introduction
